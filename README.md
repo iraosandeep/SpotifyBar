@@ -49,7 +49,7 @@ xcode-select --install
 ### 2. Get the code and build
 
 ```bash
-git clone https://github.com/<your-username>/SpotifyBar.git
+git clone https://github.com/iraosandeep/SpotifyBar.git
 cd SpotifyBar
 ./build.sh --install
 ```
